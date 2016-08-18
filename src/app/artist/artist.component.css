@@ -1,0 +1,12 @@
+.artist-header{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: solid 1px gray;
+}
+
+.artist-thumb{
+    width:100px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
